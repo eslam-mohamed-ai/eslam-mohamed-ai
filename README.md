@@ -1,7 +1,7 @@
 <!-- Animated hero. Upload hero.svg next to this README (same folder / repo root).
      One-file alternative (no extra upload): replace the line below with
      <img src="https://capsule-render.vercel.app/api?type=venom&color=0:070d1b,50:0f2547,100:0b4a63&height=240&section=header&text=Your%20Name&fontSize=56&fontColor=f8fafc&animation=twinkling&desc=AI%20Engineer%20%26%20Data%20Scientist" width="100%"> -->
-<img src="hero.svg" width="100%" alt="Your Name - AI Engineer and Data Scientist">
+<img src="hero.svg" width="100%" alt="Eslam Mohamed - AI Engineer and Data Scientist">
 
 <br/>
 
