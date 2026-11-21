@@ -1,33 +1,18 @@
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0a1020,50:16305c,100:0e7490&height=90&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e3ebf6,50:bcd4f0,100:7dd3fc&height=90&section=header" width="100%" alt="">
-</picture>
-</p>
+<!-- Animated hero. Upload hero.svg next to this README (same folder / repo root).
+     One-file alternative (no extra upload): replace the line below with
+     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:070d1b,50:0f2547,100:0b4a63&height=240&section=header&text=Your%20Name&fontSize=56&fontColor=f8fafc&animation=twinkling&desc=AI%20Engineer%20%26%20Data%20Scientist" width="100%"> -->
+<img src="hero.svg" width="100%" alt="Your Name - AI Engineer and Data Scientist">
 
-<table>
-<tr>
-<td width="200" align="center" valign="middle">
-  <!-- Photo: uses your GitHub avatar, cropped to a circle.
-       To use a different photo, replace the url value with a direct link to your image. -->
-  <img src="https://images.weserv.nl/?url=github.com/YOUR_USERNAME.png&w=400&h=400&fit=cover&mask=circle" width="170" alt="Your Name">
-</td>
-<td valign="middle">
+<br/>
 
-<h1>Your Name</h1>
+I turn raw data into models that run in production. My work centers on **retrieval-augmented generation, NLP and predictive modeling**, with a strong focus on evaluation and reliability.
 
-**AI Engineer & Data Scientist** &nbsp;|&nbsp; LLMs · Retrieval Systems · Applied ML
-
-I turn raw data into models that run in production. My work centers on retrieval-augmented generation, NLP and predictive modeling, with a strong focus on evaluation and reliability.
-
+<p>
 <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://huggingface.co/YOUR_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
   <a href="#impact">Impact</a> &nbsp;·&nbsp;
