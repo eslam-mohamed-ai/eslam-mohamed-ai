@@ -8,7 +8,7 @@
 I turn raw data into models that run in production. My work centers on **retrieval-augmented generation, NLP and predictive modeling**, with a strong focus on evaluation and reliability.
 
 <p>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/eslam-mohamed-56097537b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://huggingface.co/YOUR_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
